@@ -4991,6 +4991,7 @@ i.a.createElement("path", {
 						return e.theme.colors.input;
 					}
 				),
+		// Thierry Colors		
 				$r = {
 					failure: "#ff0000",
 					primary: "#b47446",
